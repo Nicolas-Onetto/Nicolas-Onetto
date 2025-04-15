@@ -6,7 +6,6 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<br><br>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 - :school: I'm studying in [Computer Engineer](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica) in [Univerciadad Nacional De La Matanza](https://www.google.com/maps?sca_esv=3a618e889b997b30&rlz=1C1ONGR_enAR1108AR1108&output=search&q=unlam&source=lnms&fbs=ABzOT_AjnpBcUO2nUtxcjKyMcJi8febdiOIddMLRhpGVZosJ-FRF1JyEWF4o-cq8nCkh-cBeiIggBdaNGe74QAyzwmqChihGH3u1p9uW85yifKjo_iyuLsONASJ7eJUCa9qzGIncFEdbQuFUc0oLvspo6dEM1JNobXm-t2WJS7_kwJDRSkT5CJnGTt5vxSybit1Z8NIgp5hpecLytJKqnCURMPAsyGsmYg&entry=mc&ved=1t:200715&ictx=111).
 - :technologist: I love using Software as a solution for every `Problem`.
